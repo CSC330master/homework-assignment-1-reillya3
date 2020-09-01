@@ -1,1 +1,15 @@
-pwd - Used to show directory
+***Linux Commands***
+pwd - Check what is the current directory
+mkdir - Create a directory
+cd - Change current directory to another
+ls - List the files inside a directory
+ltr - Option for ls that lists one file a sorts it by modification time
+cat - Print the file to standard output(screen)
+
+***Git Commands***
+git config - Set Git Configuration values on a global or local project
+git clone - Make clone or copy of a repo into a new directory
+git status - Check the status of local repository
+git add - Adds a file or group of files to the list of files to be updated
+git commit - Commits the changes
+git push - Pushes the committed changes from the local repo to the GitHub repo
